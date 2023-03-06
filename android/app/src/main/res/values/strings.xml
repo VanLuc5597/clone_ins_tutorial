@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="facebook_app_id">8794460070626599</string>
+<string name="fb_login_protocol_scheme">fb18794460070626599</string>
+<string name="facebook_client_token">d4b306cec3cf101ef27e8517228741f4</string>
+<string name="app_name">Demo Instagram</string>
+</resources>
